@@ -1,0 +1,384 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,800|Jost:400,700,500,600");
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/620b44c4652ab600ed8315b2.620b44c71baac83c713aeae7.NA5wQWq.rcp.png");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 16px;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.overlap-group2-item-1.valign-text-middle {
+  font-size: 11px;
+}
+.buy-a-bwindi-on-open-sea a {
+  color: #000;
+}
+
+
+/* MJ CSS START  */
+
+
+.flex-row-1.footerBottomArea {
+  align-items: center;
+  padding-top: 13px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.copyright {
+  margin: 0;
+}
+
+.terms-conditions {
+  width: auto;
+  margin-right: auto;
+}
+
+.flex-row-1.footerBottomArea a {
+  font-size: 14px;
+}
+
+.join-our-community, .stay-tuned-for-more {
+  font-size: 14px;
+}
+
+.homepageVideo,
+.markectVideo {
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+  margin-top: 40px;
+}
+
+.BwinidiClub video#myVideo,
+.homepageVideo video#homepageVideo,
+.markectVideo video#marketVideo {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+.BwinidiClub {
+  width: 100%;
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+  margin-top: 70px;
+}
+
+.the-club-provides-a {
+  margin-top: -8px !important;
+}
+
+.RoadmapActivation {
+  font-size: 35px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+}
+
+.RoadmapActivation span {
+  font-weight: 400;
+}
+
+div#team .the-team {
+  font-size: 35px !important;
+  font-style: normal !important;
+  font-weight: 600 !important;
+  color: #fff;
+  font-family: var(--font-family-montserrat-semibold);
+  line-height: 1;
+  min-height: unset;
+}
+
+span.fwn {
+  font-weight: 400;
+}
+
+div#team div {
+  min-height: unset;
+}
+
+.overlap-group2-1 .overlap-group2-item-1 a:hover {
+  color: #F8BA35;
+  text-decoration: underline;
+}
+
+.line90.hrline {
+  width: 100% !important;
+  max-width: 655px;
+}
+
+.line9.hrlineFull {
+  width: 96%;
+  max-width: 1300px;
+}
+
+.homeGorilaImage {
+  width: 100%;
+}
+
+.customeContainer {
+  max-width: 1230px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 15px;
+}
+
+.customeContainer .line9.hrlineFull {
+  width: 100% !important;
+}
+
+.flex-row-1 {
+  min-width: unset !important;
+  max-width: 1200px !important;
+  width: 100% !important;
+  height: auto;
+}
+
+.footerSocial {
+  display: flex;
+  align-items: center;
+}
+
+.footerContainer {
+  width: 100%;
+}
+
+.footerSubscrib {
+  display: flex;
+  align-items: center;
+}
+
+.footSubscrib {
+  margin-left: auto;
+}
+
+.footerSocilaList .join-our-community, 
+.footSubscrib p {
+  margin-bottom: 12px;
+}
+
+.footSubscrib p {
+  text-align: right;
+}
+
+.homepageText {
+  margin-bottom: 32px;
+}
+
+div#team {
+  flex-wrap: wrap;
+  min-width: unset;
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  margin-bottom: 33px;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team_imag_container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.simageContent img {
+  margin: 0 3px;
+}
+
+.simageContent {
+  padding: 0 15px;
+}
+
+.verified-smart-contr {
+  margin-top: 23px;
+}
+
+.flex-row-14 {
+  max-width: 1230px !important;
+  margin: 0 auto !important;
+  min-width: unset !important;
+  padding: 0 15px !important;
+}
+
+.mainhomepageScreen {
+  overflow: hidden;
+}
+
+.navMain {
+  position: relative;
+  z-index: 1;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navMain .overlap-group2-1 {
+  margin: 0 !important;
+  min-width: unset;
+  width: auto !important;
+  margin: 0;
+}
+
+.menuContainer {
+  width: 100%;
+}
+
+.menuRow {
+  display: flex;
+  align-items: center;
+}
+
+.genral-the-bwindi-cl {
+  opacity: 1;
+}
+
+.terms-conditions-3.animate-enter12 {
+  margin-left: 70px;
+}
+.terms-conditions-2.screen .flex-col-5> div, .line9999 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Responsive Css  ALL */
+
+@media only screen and (max-width: 1260px) {
+
+} /*  (max-width: 1260px) */
+
+@media only screen and (max-width: 1100px) {
+
+} /*  (max-width: 1100px) */
+
+@media only screen and (max-width: 1199px) {
+    
+} /* (max-width: 1199px) */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+} /*  (min-width: 768px) and (max-width: 991px) */
+
+@media only screen and (max-width: 991px) {
+
+  .footerSubscrib .mail-container {
+      min-width: unset;
+      width: 100%;
+  }
+
+  .footSubscrib .stay-tuned-for-more {
+      min-width: unset;
+      text-align: center;
+      white-space: unset;
+      height: auto;
+  }
+
+  .imageBoxContainer .imageCol {
+      width: 100%;
+      margin-bottom: 30px;
+  }
+
+  .socialSbuscrib {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+  }
+
+  .footerSocilaList .join-our-community {
+      margin: 0 auto 12px auto;
+  }
+
+  .footerSocilaList {
+      margin-bottom: 40px;
+  }
+
+  .footSubscrib {
+      margin: 0 auto 10px auto;
+  }
+
+  .montserrat-extra-bold-white-196px, 
+  .erinnya-lyange-nze-b.montserrat-bold-white-640px.animate-enter1 {
+    min-width: unset;
+    width: 100%;
+  }
+
+
+}/*and (max-width: 991px)*/
+    
+@media only screen and (min-width: 426px) and (max-width: 767px) {
+   
+} /* (min-width: 426px) and (max-width: 767px) */
+      
+@media only screen and (max-width: 767px) {
+
+}/* and (max-width: 767px) */
+       
+@media only screen and (max-width: 575px) {
+
+} /* (max-width: 575px) */
+    
+@media only screen and (min-width: 320px) and (max-width: 425px) {
+	
+}     /*  (min-width: 320px) and (max-width: 425px) */
+
+@media only screen and (max-width: 480px) {
+
+  .flex-row-1.footerBottomArea {
+      flex-direction: column;
+  }
+
+  .terms-conditions {
+      margin: 0 0 10px 0;
+  }
+
+  .montserrat-extra-bold-white-196px {
+      font-size: 40px;
+  }
+
+  .imageBoxContainer .overlap-group2 .bwindi-club1, 
+  .imageBoxContainer .overlap-group3 .bwindi-club-1.animate-enter2 {
+      font-size: 32px;
+  }
+
+} /* (max-width: 480px) */
+      
+@media only screen and (max-width: 360px) {
+
+} /* (max-width: 360px)  */
+   
